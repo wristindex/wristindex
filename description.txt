@@ -1,0 +1,9 @@
+1. Fill the Catalog Name and Value field and then click the ADD CATALOG button.
+	if you click ADD CATALOG button, the catalog name is shown on right of interface.
+	So you can see what you add.
+
+2. Fill the New Chart Name field and then click the ADD NEW CHART button.
+	The chart is shown the chart of the value you recode first.
+
+3. Repeat preview operation.
+	You can add several chart in the interface.

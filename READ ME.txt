@@ -1,0 +1,4 @@
+Please run command
+npm install 
+in commad line/terminal from application's folder to install modules before starting the app with 
+npm start

@@ -1,0 +1,29 @@
+{
+  "name": "excel_to_radar_node",
+  "version": "1.0.0",
+  "description": "Node backend for radar data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ajay Singh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "log4js": "^6.3.0",
+    "moment": "^2.29.1",
+    "mongodb": "^3.6.6",
+    "multer": "^1.4.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3",
+    "read-excel-file": "^5.1.0"
+  },
+  "engines": {
+    "node": "14.0.0"
+  }
+}

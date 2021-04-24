@@ -1,0 +1,7 @@
+#chartDiv{
+    height: calc(100vh - 160px);
+}
+
+.space{
+    width: 40px;
+}
